@@ -25,7 +25,7 @@ then in your `~/.vimrc` or `~/.config/nvim/init.vim` add `colorscheme blaquemagi
 *note: if installing via plugin, you must set the colorscheme variable after including the plugin in your config file.*
 
 # terminal colors
-blaquemagick is also available as a color scheme for [Xresources](https://github.com/daniel-simon-gonzalez/blaquemagick.vim/blob/master/terminals/blaquemagick.Xcolors) and [OS X](https://github.com/daniel-simon-gonzalez/blaquemagick.vim/blob/master/terminals/blaquemagick.terminal) terminals.
+blaquemagick is also available as a colorscheme for [Xresources](https://github.com/daniel-simon-gonzalez/blaquemagick.vim/blob/master/terminals/blaquemagick.Xcolors) and [OS X](https://github.com/daniel-simon-gonzalez/blaquemagick.vim/blob/master/terminals/blaquemagick.terminal) terminals.
 ```
 --------------------------------------|-----------------------------------------
 |   BASIC         HEX                 |     BASIC         HEX                  |
