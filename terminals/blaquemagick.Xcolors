@@ -1,0 +1,29 @@
+! █▓▒░ blaque magick
+
+*.foreground:   #585858
+*.background:   #000000
+*.cursorColor:  #90110F
+! black
+*.color0:       #222222
+*.color8:       #222222
+! red
+*.color9:       #5f8787
+*.color1:       #5f8787
+! green
+*.color2:       #87AF5F
+*.color10:      #87AF5F
+! yellow
+*.color3:       #87875f
+*.color11:      #87875f
+! blue
+*.color4:       #870000
+*.color12:      #870000
+! magenta
+*.color5:       #4B5F69
+*.color13:      #4B5F69
+! cyan
+*.color6:       #777777
+*.color14:      #777777
+! white
+*.color7:       #c1c1c1
+*.color15:      #c1c1c1
